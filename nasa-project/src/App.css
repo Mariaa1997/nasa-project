@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: purple;
+  padding: 15px;
+  font-size: 2em;
+}
+
+.nav a {
+  color: blue;
+  text-decoration: none;
+}
